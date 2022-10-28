@@ -8,6 +8,7 @@ function euler1()
         end
     end
     println(sum)
+    println("test")
 end
 
 euler1()
